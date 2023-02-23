@@ -1,5 +1,5 @@
 <a target="blank" href="https://ifpeopensource.com.br" rel="noopener">
-    <img alt="IFPE Open Source" title="Acesse nosso site" src="https://github.com/ifpeopensource/.github/blob/605cf806eb5dc43e76a939a62839eed31f98a451/assets/logotype_horizontal_dark.svg" width="30%" />
+    <img alt="IFPE Open Source" title="Acesse nosso site" src="https://raw.githubusercontent.com/ifpeopensource/.github/605cf806eb5dc43e76a939a62839eed31f98a451/assets/logotype_horizontal_dark.svg" width="30%" />
 </a>
 
 # IFPE Open Source
